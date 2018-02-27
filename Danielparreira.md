@@ -1,4 +1,4 @@
-Dentro da área dacomputação desejo trabalhar na segurança da informação, realizando testes de vulnerabilidade dentro dos sistemas
+Dentro da área dacomputação desejo trabalhar na segurança da informação, realizando testes de vulnerabilidade, dentro dos sistemas
 interno da empresa contratada apontando falhas e demostrando soluões para que futuramente não possa acontecer novamente,
 simular ataques de hackers.
 
